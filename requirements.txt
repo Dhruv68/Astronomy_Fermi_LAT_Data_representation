@@ -1,0 +1,4 @@
+astropy>=5.3,<8
+matplotlib>=3.7,<4
+numpy>=1.24,<3
+PySide6>=6.6,<7

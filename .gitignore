@@ -1,1 +1,27 @@
+# Large downloaded and generated data
+data/
+outputs/
 *.fits
+*.fits.gz
+*.fit
+*.part
+*.npz
+
+# Python environments and caches
+.fermi-env/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Local configuration, logs, and archives
+.env
+*.log
+*.zip
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
